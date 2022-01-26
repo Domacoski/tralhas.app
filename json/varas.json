@@ -1,0 +1,17 @@
+[
+    { 
+        "id":1,
+        "name":"Viper III - Albatroz ",
+        "size":"6'6 1,98m",
+        "lbs":"5-14lbs", 
+        "img":"/img/marine-ports.png"
+    },
+    { 
+        "id":2,
+        "name":"Speed Prime - Albatroz",
+        "size":"6'5 1,80m",
+        "lbs":"2-6lbs", 
+        "img":"/img/marine-ports.png"
+    }
+
+]

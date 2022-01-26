@@ -1,0 +1,20 @@
+[
+    { 
+        "id":1,
+        "name":"Marine Sports Intruder 300 Hil",
+        "description": "Customizada: Alterado as buchas de cobre para rolamentos, manivela com menor curso",
+        "img":"img/marine-spots.png"
+    },
+    { 
+        "id":2,
+        "name":"Marine Sports Intruder 300 Hil",
+        "description": "Esta é a minha primeira carretilha! Já me acompanha há alhum tempo e ainda continua guerreia! Foram realizadas algumas alterações",
+        "img":"img/marine-spots.png"
+    }, 
+    { 
+        "id":3,
+        "name":"Marine Sports Intruder 300 Hil",
+        "description": "Customizada: Alterado as buchas de cobre para rolamentos, manivela com menor curso",
+        "img":"img/marine-spots.png"
+    }
+]

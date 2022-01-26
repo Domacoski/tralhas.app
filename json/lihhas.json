@@ -1,0 +1,17 @@
+[
+    { 
+        "id":1,
+        "name":"Multifilamento Maruri Pe Max 0,20mm", 
+        "img":"img/linha-020.png"
+    },
+    { 
+        "id":2,
+        "name":"Multifilamento Maruri Pe Max 0,16mm", 
+        "img":"img/linha-020.png"
+    },
+    { 
+        "id":3,
+        "name":"Multifilamento Maruri Pe Max 0,14mm", 
+        "img":"img/linha-020.png"
+    }
+]

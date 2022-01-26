@@ -1,0 +1,29 @@
+[
+    { 
+        "id":1,
+        "name":"Curisco 90 - Nelson Nakamura",
+        "peso":15,
+        "tamanho":9,
+        "description": "Ação (Tipo de trabalho): Meia água",
+        "work":"Arremesse a Curisco no ponto desejado, em seguida sem bambear a linha recolha dando toque com a ponta de vara, a Curisco afundará e terá os movimentos erráticos.",
+        "img":"/img/curisco-90.png"
+    },
+    { 
+        "id":2,
+        "name":"Metal Vibration - TNT Fishing",
+        "peso":8,
+        "tamanho":6,
+        "description": "Isca super versátil",
+        "work":"Recolhimento contínuo, ou pindoco",
+        "img":"/img/curisco-90.png"
+    },
+    { 
+        "id":3,
+        "name":"Mago 60 - Nelson Nakamura",
+        "peso":7,
+        "tamanho":6,
+        "description": " isca de meia água suspending em água doce com sistema magnético que facilita o arremesso e a precisão até mesmo nos dias de mais vento. ",
+        "work":"Recolhimento contínuo, e ela terá o movimento uniforme, mas lembre-se de um detalhe muito importante, a presa ferida é a presa mais fácil para o predador!",
+        "img":"/img/curisco-90.png"
+    }
+]
